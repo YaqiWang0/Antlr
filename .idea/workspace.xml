@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6b784ee-e46a-48c1-9c71-21293ac0ac66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apache-maven-3.6.3/lib" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJh1N7dpZN8On8gDVVTVts5USB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/antlr4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/antlr4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/antlr4" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LogListenerTest.whenLogContainsOneErrorLogEntry_thenOneErrorIsReturned">
+    <configuration name="LogListenerTest.whenLogContainsOneErrorLogEntry_thenOneErrorIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Antlr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogListenerTest" />
+      <option name="METHOD_NAME" value="whenLogContainsOneErrorLogEntry_thenOneErrorIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperCaseMethodListenerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Antlr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UpperCaseMethodListenerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperCaseMethodListenerTest.enterMethodDeclarator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Antlr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UpperCaseMethodListenerTest" />
+      <option name="METHOD_NAME" value="enterMethodDeclarator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LogListenerTest.whenLogContainsOneErrorLogEntry_thenOneErrorIsReturned" />
+        <item itemvalue="JUnit.UpperCaseMethodListenerTest" />
+        <item itemvalue="JUnit.UpperCaseMethodListenerTest.enterMethodDeclarator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b784ee-e46a-48c1-9c71-21293ac0ac66" name="Default Changelist" comment="" />
+      <created>1584562887769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584562887769</updated>
+      <workItem from="1584562891010" duration="521000" />
+      <workItem from="1584563426583" duration="8350000" />
+      <workItem from="1585684665992" duration="775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="242" key="#Project_Structure" timestamp="1584567270249">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="461" y="242" key="#Project_Structure/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584567270249" />
+    <state x="560" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584563391599">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="560" y="307" key="#com.intellij.fileTypes.FileTypeChooser/1680.-367.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1584563391599" />
+    <state x="645" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1584568585947">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="645" y="213" key="#com.intellij.ide.util.MemberChooser/1680.-367.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1584564000467" />
+    <state x="645" y="214" key="#com.intellij.ide.util.MemberChooser/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584564984846" />
+    <state x="645" y="215" key="#com.intellij.ide.util.MemberChooser/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584568585947" />
+    <state x="602" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584565224434">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="602" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565224434" />
+    <state width="1552" height="313" key="GridCell.Tab.0.bottom" timestamp="1585162757538">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.0.bottom/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757538" />
+    <state width="1552" height="253" key="GridCell.Tab.0.bottom/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565407242" />
+    <state width="1552" height="253" key="GridCell.Tab.0.bottom/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570533319" />
+    <state width="1552" height="253" key="GridCell.Tab.0.bottom/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584569564964" />
+    <state width="1552" height="313" key="GridCell.Tab.0.center" timestamp="1585162757538">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.0.center/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757538" />
+    <state width="1552" height="253" key="GridCell.Tab.0.center/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565407241" />
+    <state width="1552" height="253" key="GridCell.Tab.0.center/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570533318" />
+    <state width="1552" height="253" key="GridCell.Tab.0.center/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584569564962" />
+    <state width="1552" height="313" key="GridCell.Tab.0.left" timestamp="1585162757537">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.0.left/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757537" />
+    <state width="1552" height="253" key="GridCell.Tab.0.left/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565407240" />
+    <state width="1552" height="253" key="GridCell.Tab.0.left/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570533318" />
+    <state width="1552" height="253" key="GridCell.Tab.0.left/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584569564961" />
+    <state width="1552" height="313" key="GridCell.Tab.0.right" timestamp="1585162757538">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.0.right/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757538" />
+    <state width="1552" height="253" key="GridCell.Tab.0.right/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565407241" />
+    <state width="1552" height="253" key="GridCell.Tab.0.right/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570533319" />
+    <state width="1552" height="253" key="GridCell.Tab.0.right/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584569564963" />
+    <state width="1552" height="313" key="GridCell.Tab.1.bottom" timestamp="1585162757539">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.1.bottom/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757539" />
+    <state width="1552" height="313" key="GridCell.Tab.1.bottom/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570521632" />
+    <state width="1552" height="313" key="GridCell.Tab.1.center" timestamp="1585162757539">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.1.center/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757539" />
+    <state width="1552" height="313" key="GridCell.Tab.1.center/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570521631" />
+    <state width="1552" height="313" key="GridCell.Tab.1.left" timestamp="1585162757539">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.1.left/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757539" />
+    <state width="1552" height="313" key="GridCell.Tab.1.left/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570521631" />
+    <state width="1552" height="313" key="GridCell.Tab.1.right" timestamp="1585162757539">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1552" height="313" key="GridCell.Tab.1.right/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1585162757539" />
+    <state width="1552" height="313" key="GridCell.Tab.1.right/1680.-367.2560.1417/0.23.1680.956@0.23.1680.956" timestamp="1584570521631" />
+    <state x="402" y="158" key="Maven.ArtifactSearchDialog" timestamp="1584565191760">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="402" y="158" key="Maven.ArtifactSearchDialog/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584565191760" />
+    <state x="511" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1584563527329">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="511" y="329" key="com.intellij.ide.util.TipDialog/1680.-367.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1584563527329" />
+    <state x="643" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584568183252">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="643" y="230" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.-367.2560.1417/0.23.1680.952@0.23.1680.952" timestamp="1584564717242" />
+    <state x="643" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.-367.2560.1417/0.23.1680.958@0.23.1680.958" timestamp="1584568183252" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/target/generated-sources/antlr4/loggingParser.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
